@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @brutbarb
+- 👀 I’m interested in learning how to problem-solve with code
+- 🌱 I’m currently learning Python
